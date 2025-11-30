@@ -1,5 +1,9 @@
 # Poor man's PiTest
 
+Read the story here: https://meirz.net/2025/11/29/poor-mans-pitest/
+
+## Usage:
+
 Usage: ./runPPIT.sh [-h] [-s] [-b branch] [-m module]
 
 Options:
